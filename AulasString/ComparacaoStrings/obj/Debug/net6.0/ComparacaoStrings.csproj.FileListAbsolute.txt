@@ -1,0 +1,15 @@
+C:\dev\AulasString\ComparacaoStrings\bin\Debug\net6.0\ComparacaoStrings.exe
+C:\dev\AulasString\ComparacaoStrings\bin\Debug\net6.0\ComparacaoStrings.deps.json
+C:\dev\AulasString\ComparacaoStrings\bin\Debug\net6.0\ComparacaoStrings.runtimeconfig.json
+C:\dev\AulasString\ComparacaoStrings\bin\Debug\net6.0\ComparacaoStrings.dll
+C:\dev\AulasString\ComparacaoStrings\bin\Debug\net6.0\ref\ComparacaoStrings.dll
+C:\dev\AulasString\ComparacaoStrings\bin\Debug\net6.0\ComparacaoStrings.pdb
+C:\dev\AulasString\ComparacaoStrings\obj\Debug\net6.0\ComparacaoStrings.csproj.AssemblyReference.cache
+C:\dev\AulasString\ComparacaoStrings\obj\Debug\net6.0\ComparacaoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AulasString\ComparacaoStrings\obj\Debug\net6.0\ComparacaoStrings.AssemblyInfoInputs.cache
+C:\dev\AulasString\ComparacaoStrings\obj\Debug\net6.0\ComparacaoStrings.AssemblyInfo.cs
+C:\dev\AulasString\ComparacaoStrings\obj\Debug\net6.0\ComparacaoStrings.csproj.CoreCompileInputs.cache
+C:\dev\AulasString\ComparacaoStrings\obj\Debug\net6.0\ComparacaoStrings.dll
+C:\dev\AulasString\ComparacaoStrings\obj\Debug\net6.0\ref\ComparacaoStrings.dll
+C:\dev\AulasString\ComparacaoStrings\obj\Debug\net6.0\ComparacaoStrings.pdb
+C:\dev\AulasString\ComparacaoStrings\obj\Debug\net6.0\ComparacaoStrings.genruntimeconfig.cache

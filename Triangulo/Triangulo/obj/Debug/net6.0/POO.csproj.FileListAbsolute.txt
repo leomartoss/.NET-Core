@@ -1,0 +1,15 @@
+C:\DevBalta\Triangulo\Triangulo\bin\Debug\net6.0\POO.exe
+C:\DevBalta\Triangulo\Triangulo\bin\Debug\net6.0\POO.deps.json
+C:\DevBalta\Triangulo\Triangulo\bin\Debug\net6.0\POO.runtimeconfig.json
+C:\DevBalta\Triangulo\Triangulo\bin\Debug\net6.0\POO.dll
+C:\DevBalta\Triangulo\Triangulo\bin\Debug\net6.0\ref\POO.dll
+C:\DevBalta\Triangulo\Triangulo\bin\Debug\net6.0\POO.pdb
+C:\DevBalta\Triangulo\Triangulo\obj\Debug\net6.0\POO.csproj.AssemblyReference.cache
+C:\DevBalta\Triangulo\Triangulo\obj\Debug\net6.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevBalta\Triangulo\Triangulo\obj\Debug\net6.0\POO.AssemblyInfoInputs.cache
+C:\DevBalta\Triangulo\Triangulo\obj\Debug\net6.0\POO.AssemblyInfo.cs
+C:\DevBalta\Triangulo\Triangulo\obj\Debug\net6.0\POO.csproj.CoreCompileInputs.cache
+C:\DevBalta\Triangulo\Triangulo\obj\Debug\net6.0\POO.dll
+C:\DevBalta\Triangulo\Triangulo\obj\Debug\net6.0\ref\POO.dll
+C:\DevBalta\Triangulo\Triangulo\obj\Debug\net6.0\POO.pdb
+C:\DevBalta\Triangulo\Triangulo\obj\Debug\net6.0\POO.genruntimeconfig.cache

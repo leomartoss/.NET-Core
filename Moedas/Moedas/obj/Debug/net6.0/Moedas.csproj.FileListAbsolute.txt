@@ -1,0 +1,15 @@
+C:\DevBalta\Moedas\Moedas\bin\Debug\net6.0\Moedas.exe
+C:\DevBalta\Moedas\Moedas\bin\Debug\net6.0\Moedas.deps.json
+C:\DevBalta\Moedas\Moedas\bin\Debug\net6.0\Moedas.runtimeconfig.json
+C:\DevBalta\Moedas\Moedas\bin\Debug\net6.0\Moedas.dll
+C:\DevBalta\Moedas\Moedas\bin\Debug\net6.0\ref\Moedas.dll
+C:\DevBalta\Moedas\Moedas\bin\Debug\net6.0\Moedas.pdb
+C:\DevBalta\Moedas\Moedas\obj\Debug\net6.0\Moedas.csproj.AssemblyReference.cache
+C:\DevBalta\Moedas\Moedas\obj\Debug\net6.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevBalta\Moedas\Moedas\obj\Debug\net6.0\Moedas.AssemblyInfoInputs.cache
+C:\DevBalta\Moedas\Moedas\obj\Debug\net6.0\Moedas.AssemblyInfo.cs
+C:\DevBalta\Moedas\Moedas\obj\Debug\net6.0\Moedas.csproj.CoreCompileInputs.cache
+C:\DevBalta\Moedas\Moedas\obj\Debug\net6.0\Moedas.dll
+C:\DevBalta\Moedas\Moedas\obj\Debug\net6.0\ref\Moedas.dll
+C:\DevBalta\Moedas\Moedas\obj\Debug\net6.0\Moedas.pdb
+C:\DevBalta\Moedas\Moedas\obj\Debug\net6.0\Moedas.genruntimeconfig.cache

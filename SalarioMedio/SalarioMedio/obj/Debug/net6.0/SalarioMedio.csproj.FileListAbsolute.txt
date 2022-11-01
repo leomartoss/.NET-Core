@@ -1,0 +1,15 @@
+C:\DevBalta\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.exe
+C:\DevBalta\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.deps.json
+C:\DevBalta\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.runtimeconfig.json
+C:\DevBalta\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.dll
+C:\DevBalta\SalarioMedio\SalarioMedio\bin\Debug\net6.0\ref\SalarioMedio.dll
+C:\DevBalta\SalarioMedio\SalarioMedio\bin\Debug\net6.0\SalarioMedio.pdb
+C:\DevBalta\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.csproj.AssemblyReference.cache
+C:\DevBalta\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevBalta\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.AssemblyInfoInputs.cache
+C:\DevBalta\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.AssemblyInfo.cs
+C:\DevBalta\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.csproj.CoreCompileInputs.cache
+C:\DevBalta\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.dll
+C:\DevBalta\SalarioMedio\SalarioMedio\obj\Debug\net6.0\ref\SalarioMedio.dll
+C:\DevBalta\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.pdb
+C:\DevBalta\SalarioMedio\SalarioMedio\obj\Debug\net6.0\SalarioMedio.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\dev\AulasString\InterpolacaoStrings\bin\Debug\net6.0\InterpolacaoStrings.exe
+C:\dev\AulasString\InterpolacaoStrings\bin\Debug\net6.0\InterpolacaoStrings.deps.json
+C:\dev\AulasString\InterpolacaoStrings\bin\Debug\net6.0\InterpolacaoStrings.runtimeconfig.json
+C:\dev\AulasString\InterpolacaoStrings\bin\Debug\net6.0\InterpolacaoStrings.dll
+C:\dev\AulasString\InterpolacaoStrings\bin\Debug\net6.0\ref\InterpolacaoStrings.dll
+C:\dev\AulasString\InterpolacaoStrings\bin\Debug\net6.0\InterpolacaoStrings.pdb
+C:\dev\AulasString\InterpolacaoStrings\obj\Debug\net6.0\InterpolacaoStrings.csproj.AssemblyReference.cache
+C:\dev\AulasString\InterpolacaoStrings\obj\Debug\net6.0\InterpolacaoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AulasString\InterpolacaoStrings\obj\Debug\net6.0\InterpolacaoStrings.AssemblyInfoInputs.cache
+C:\dev\AulasString\InterpolacaoStrings\obj\Debug\net6.0\InterpolacaoStrings.AssemblyInfo.cs
+C:\dev\AulasString\InterpolacaoStrings\obj\Debug\net6.0\InterpolacaoStrings.csproj.CoreCompileInputs.cache
+C:\dev\AulasString\InterpolacaoStrings\obj\Debug\net6.0\InterpolacaoStrings.dll
+C:\dev\AulasString\InterpolacaoStrings\obj\Debug\net6.0\ref\InterpolacaoStrings.dll
+C:\dev\AulasString\InterpolacaoStrings\obj\Debug\net6.0\InterpolacaoStrings.pdb
+C:\dev\AulasString\InterpolacaoStrings\obj\Debug\net6.0\InterpolacaoStrings.genruntimeconfig.cache

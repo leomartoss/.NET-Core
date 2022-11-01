@@ -1,0 +1,15 @@
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.exe
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.deps.json
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.runtimeconfig.json
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.dll
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\ref\PessoaMaisVelha.dll
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\net6.0\PessoaMaisVelha.pdb
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.AssemblyReference.cache
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfoInputs.cache
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.AssemblyInfo.cs
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.csproj.CoreCompileInputs.cache
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.dll
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\ref\PessoaMaisVelha.dll
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.pdb
+C:\DevBalta\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\net6.0\PessoaMaisVelha.genruntimeconfig.cache
